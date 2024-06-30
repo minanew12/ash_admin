@@ -16,5 +16,3 @@ Welcome! This is a super-admin UI dashboard for [Ash Framework](https://hexdocs.
 
 ## Reference
 
-- [AshAdmin.Domain DSL](documentation/dsls/DSL:-AshAdmin.Domain.md)
-- [AshAdmin.Resource DSL](documentation/dsls/DSL:-AshAdmin.Resource.md)
